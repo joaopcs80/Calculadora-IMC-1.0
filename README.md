@@ -1,2 +1,2 @@
-# Calculadora-IMC-1.0
-Calculadora IMC 1.0 - Curso Flutter. Atividade: Linguagem de Programação Dart.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.

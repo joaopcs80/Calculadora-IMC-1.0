@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Primeiro Projeto em flutter. Calculador de IMC com algumas validações simples utilizando o Prompt.
